@@ -18,4 +18,9 @@ arrhythmia conditions that are consistent with the AAMI EC57 guidelines show the
 superiority of the deep learning models used. ResNet-18 gave us the best results
 with an accuracy of 98%.
 
+#### Done by: 
+Arhith Pattathil Suresh
+Gowtham Baskar 
+Prashanth V.R.
+
 Link to Download Dataset - [Link](https://www.kaggle.com/shayanfazeli/heartbeat)
